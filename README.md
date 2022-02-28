@@ -1,1 +1,1 @@
-# DevOps-Uebung-W2
+# DevOps-Uebung-W2 - Git commands
